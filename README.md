@@ -1,0 +1,2 @@
+# BlessingStore
+SimplyBe
